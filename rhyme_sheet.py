@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # rhyme_sheet.py
 
 mainTypeEnum = ["平声(上)", "平声(下)", "上声", "去声", "入声"]

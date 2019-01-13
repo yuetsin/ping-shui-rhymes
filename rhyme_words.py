@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # rhyme_words.py
 
 import rhyme_sheet
