@@ -33,10 +33,10 @@ while rawString != "end":
         print("平仄是：", end='')
         polyList = []
         for j in rawString:
-            if j in '，。、！？':
-                print("〇", end='')
-                continue
-            fixedObj = False
+            # if j in '，。、！？':
+                # print("〇", end='')
+                # continue
+            fixedObj = True
             for i in ping_shui_rhymes:
                 if i.chineseChar == j:
                     if i.isPolyphone:
@@ -53,9 +53,9 @@ while rawString != "end":
                         print("仄", end='')
                         fixedObj = False
                         break
-                fixedObj = not fixedObj
+                # fixedObj = not fixedObj
             if fixedObj:
-                print("〇", end='')
+                print(j, end='')
                 fixedObj = not fixedObj
         if polyList != []:
             print("\n下面是多音字：\n----------------")
