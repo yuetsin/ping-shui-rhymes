@@ -1,7 +1,13 @@
 # 平水韵
-[平水韵](https://zh.wikipedia.org/wiki/平水韻)表查询。**仅作存档用**。
+[平水韵](https://zh.wikipedia.org/wiki/平水韻)表查询。
 
-![](https://raw.githubusercontent.com/yuxiqian/ping-shui-rhymes/master/img.png)
+![](https://raw.githubusercontent.com/yuxiqian/ping-shui-rhymes/master/img_tc.png)
+
+*   Traditional Chinese
+
+![](https://raw.githubusercontent.com/yuxiqian/ping-shui-rhymes/master/img_sc.png)
+
+*   Simplified Chinese
 
 
 # 感谢

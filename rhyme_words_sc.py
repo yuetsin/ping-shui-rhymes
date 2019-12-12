@@ -2,7 +2,7 @@
 
 # rhyme_words.py
 
-import rhyme_sheet
+import rhyme_sheet_sc as rhyme_sheet
 
 
 class rhyme_word:

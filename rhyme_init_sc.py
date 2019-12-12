@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import rhyme_words
+import rhyme_words_sc as rhyme_words
 
 
 def PingShuiYunInit(sheet, mainIndex, secondIndex, Chars):
